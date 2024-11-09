@@ -1,0 +1,15 @@
+pandas
+numpy
+transformers
+openai
+matplotlib
+seaborn
+wordcloud
+nltk
+scikit-learn
+torch
+tqdm
+langchain 
+langchain-openai 
+openai
+optuna
